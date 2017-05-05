@@ -1,4 +1,6 @@
 # SFTP Deploy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sbstnmsch/sftp-deploy.svg)](https://greenkeeper.io/)
 Deploy a path to a remote server via SFTP
 
 # Install
