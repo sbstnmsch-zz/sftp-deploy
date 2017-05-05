@@ -1,0 +1,30 @@
+{
+  "name": "sftp-deploy",
+  "version": "0.1.0",
+  "description": "Automates SFTP deployments",
+  "main": "index.js",
+  "bin": {
+    "sftp-deploy": "./index.js"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "eslint ."
+  },
+  "keywords": [
+    "sftp",
+    "deployment"
+  ],
+  "author": "Sebastian Misch",
+  "license": "MIT",
+  "dependencies": {
+    "node-sftp-deploy": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
