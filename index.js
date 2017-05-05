@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const nodeSftpDeploy = require('node-sftp-deploy');
 
 if (

@@ -1,10 +1,14 @@
 {
   "name": "sftp-deploy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automates SFTP deployments",
   "main": "index.js",
   "bin": {
     "sftp-deploy": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:sbstnmsch/sftp-deploy.git"
   },
   "scripts": {
     "start": "node .",

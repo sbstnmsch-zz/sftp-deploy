@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/sftp-deploy.svg)](http://badge.fury.io/js/sftp-deploy) [![Build Status](https://travis-ci.org/sbstnmsch/sftp-deploy.svg?branch=master)](https://travis-ci.org/sbstnmsch/sftp-deploy)
+
 # SFTP Deploy
 Deploy a path to a remote server via SFTP
 
